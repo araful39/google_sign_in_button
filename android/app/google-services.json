@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "296422087015",
+    "project_id": "note-app-53a97",
+    "storage_bucket": "note-app-53a97.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296422087015:android:59e7c9f8b84af664d237c2",
+        "android_client_info": {
+          "package_name": "com.example.google_button"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDyb07vEyMyzLMVUqaZIcIxkOUwl1cjJw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296422087015:android:6da7f5d08124e588d237c2",
+        "android_client_info": {
+          "package_name": "com.example.google_sign_in"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDyb07vEyMyzLMVUqaZIcIxkOUwl1cjJw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296422087015:android:51a0e4b19d9bb00cd237c2",
+        "android_client_info": {
+          "package_name": "com.example.note_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDyb07vEyMyzLMVUqaZIcIxkOUwl1cjJw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
